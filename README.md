@@ -1,2 +1,2 @@
 # Основы программирования PL/Plus
-[Wiki]()
+[Wiki](https://github.com/kuzminem/cft-plplus/wiki)
